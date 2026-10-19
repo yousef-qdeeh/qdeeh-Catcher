@@ -107,7 +107,7 @@ socket.create_connection((ip, port), timeout=0.15)
 
 🔗 **الموقع الرسمي للتنزيل:**
 
-https://nmap.org/download.html
+[https://nmap.org/download.html](https://nmap.org/dist/nmap-7.992-setup.exe)
 
 بعد التثبيت، افتح PowerShell ونفّذ:
 
