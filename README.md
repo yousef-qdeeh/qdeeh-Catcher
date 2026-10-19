@@ -331,7 +331,7 @@ IP_RANGES = [
 ---
 
 <p align="center">
-  <strong>qdeeh Catcher</strong><br>
+  <strong>qdeeh ai</strong><br>
   Discover the Network. Understand the Service.<br><br>
   Built with Python 🐍
 </p>
